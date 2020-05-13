@@ -20,8 +20,8 @@ newkey = "S"
 body = [(50, 50)]
 newX = 50
 newY = 50
-fruit = pygame.image.load("Imagini/apple.png")
-background = pygame.image.load("Imagini/background.png")
+fruit = pygame.image.load("Images/apple.png")
+background = pygame.image.load("Images/background.png")
 
 while running:
     for event in pygame.event.get():
